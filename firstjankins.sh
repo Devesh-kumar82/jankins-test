@@ -1,4 +1,4 @@
-this is first code
+this is second code
 date
 cal
 last code
