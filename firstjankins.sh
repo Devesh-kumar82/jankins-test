@@ -1,4 +1,4 @@
-this is second code
+echo "this is second code"
 date
 cal
-last code
+echo "last code"
